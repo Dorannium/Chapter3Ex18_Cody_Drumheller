@@ -9,8 +9,8 @@ and the number of times the interest is compounded.
 */
 
 #include <iostream>
-#include <cmath>  // For pow() function
-#include <iomanip>  // For setting precision
+#include <cmath>  
+#include <iomanip> 
 
 using namespace std;
 
